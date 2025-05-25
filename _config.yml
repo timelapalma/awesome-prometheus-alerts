@@ -1,8 +1,5 @@
-theme: jekyll-theme-cayman
-
-title: Awesome Prometheus alerts
-description: Collection of alerting rules
-
-repository: samber/awesome-prometheus-alerts
-
-baseurl: /awesome-prometheus-alerts
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: La Palma - AWESOME PAG ALERTS
+description: "Repositório dedicado a colaboração quanto a construção e compartilhamento de queries usadas no Pagmon"
